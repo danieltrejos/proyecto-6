@@ -13437,6 +13437,12 @@ textarea.form-control {
   text-transform: uppercase;
 }
 
+.contact-section .box .conctacto-correo {
+  font-size: 15px;
+
+
+}
+
 .contact-section .contact-form {
   width: 100%;
 }
